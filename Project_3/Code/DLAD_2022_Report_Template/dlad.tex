@@ -1,0 +1,74 @@
+% DLAD 2022 Template
+
+% based on the CVPR 2022 Paper Template
+% based on the CVPR template provided by Ming-Ming Cheng (https://github.com/MCG-NKU/CVPR_Template)
+% modified and extended by Stefan Roth (stefan.roth@NOSPAMtu-darmstadt.de)
+
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+%%%%%%%%% PAPER TYPE  - PLEASE UPDATE FOR FINAL VERSION
+\usepackage[pagenumbers]{cvpr}
+
+% Include other packages here, before hyperref.
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{booktabs}
+
+\usepackage[pagebackref,breaklinks,colorlinks]{hyperref}
+
+
+% Support for easy cross-referencing
+\usepackage[capitalize]{cleveref}
+\crefname{section}{Sec.}{Secs.}
+\Crefname{section}{Section}{Sections}
+\Crefname{table}{Table}{Tables}
+\crefname{table}{Tab.}{Tabs.}
+
+\begin{document}
+
+%%%%%%%%% TITLE - PLEASE UPDATE
+\title{GROUP 00: Report 2}
+
+\author{First Author\\
+Institution1
+\and
+Second Author\\
+Institution2
+}
+\maketitle
+
+\begin{abstract}
+A short summary of the task at hand and your proposal.
+\end{abstract}
+
+\section{Introduction}
+\label{sec:intro}
+Describe your problem and state your contributions. What are the shortcoming of the baseline method that you intend to solve?
+
+\section{Related Work}
+\label{sec:rw}
+Survey the related work. What has been done in this line of work? Where does your contributions stand in comparison? \\
+\noindent \textit{Hint}: Novelty in your contributions is not a requisite but highly valued. If you intend to re-implement existing modules, go into detail on how they work and what they intend to solve.
+
+\section{Method}
+\label{sec:method}
+Describe your idea and how it was implemented to solve the problem.
+
+\section{Results}
+\label{sec:experiments}
+Show evidence to support your claims made in the introduction. Compare your proposed method to the baseline from Problem 1. \\
+\noindent \textit{Hint}: If you have implemented multiple modules, isolate their roles in the outcome by providing ablation studies. Show us how they effect the results with example figures. You can use your visualization code from Project 1 for this task.
+\noindent \textit{Tip}: While you should report your final score on the test set, any further ablation studies required should be conducted on the validation set as you are limited to only 10 submissions.
+
+\section{Conclusion}
+\label{sec:conc}
+Discuss the strengths and weaknesses of your approach based on the results.
+
+%%%%%%%%% REFERENCES
+{\small
+\bibliographystyle{ieee_fullname}
+\bibliography{egbib}
+}
+
+\end{document}
