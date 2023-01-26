@@ -1,0 +1,51 @@
+2022-04-07_16-51-40
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-13-59-162-99.us-east-2.compute.amazonaws.com
+
+2022-04-08_17-39-19
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-3-22-187-142.us-east-2.compute.amazonaws.com
+
+2022-04-09_12-24-25
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-13-58-240-98.us-east-2.compute.amazonaws.com
+
+2022-04-09_12-57-10
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-3-139-84-10.us-east-2.compute.amazonaws.com
+
+2022-04-10_12-02-50
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-18-218-105-103.us-east-2.compute.amazonaws.com
+
+2022-04-11_10-49-06
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-3-140-217-77.us-east-2.compute.amazonaws.com
+
+2022-04-12_18-02-07
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-18-188-105-4.us-east-2.compute.amazonaws.com
+
+2022-04-12_18-40-38
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-18-117-118-51.us-east-2.compute.amazonaws.com
+
+2022-04-18_12-02-15
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-3-137-171-149.us-east-2.compute.amazonaws.com
+
+2022-04-28_15-51-17
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-18-223-214-166.us-east-2.compute.amazonaws.com
+
+2022-05-01_09-50-08
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-3-14-146-171.us-east-2.compute.amazonaws.com
+
+2022-05-01_14-52-50
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-18-117-236-248.us-east-2.compute.amazonaws.com
+
+2022-05-01_15-16-59
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-3-131-98-64.us-east-2.compute.amazonaws.com
+
+2022-05-01_15-26-04
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-18-116-29-183.us-east-2.compute.amazonaws.com
+
+2022-05-01_15-35-07
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-18-219-74-0.us-east-2.compute.amazonaws.com
+
+2022-05-01_17-47-36
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-18-191-109-150.us-east-2.compute.amazonaws.com
+
+2022-05-01_18-53-32
+ssh -q -o StrictHostKeyChecking=no -o LogLevel=ERROR -o ConnectTimeout=180 -i ~/.ssh/dlad-aws.pem ubuntu@ec2-3-14-67-50.us-east-2.compute.amazonaws.com
+
